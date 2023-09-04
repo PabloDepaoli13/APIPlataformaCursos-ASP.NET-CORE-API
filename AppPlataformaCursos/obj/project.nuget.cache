@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5viOF3O8nhZskoLs3IE8oZn1KPHi6cF8pavjEZEGLyHVZwa44t6VOa8Owp6jUeBtiiL3an3q4h3ITI5vZXMiiw==",
+  "dgSpecHash": "6Gm1Whuefw6AxWWCaGX6V40eyfP+GGPU0oE6wkZGP7l4gpaO60qFh/ckJn6tkjDMpu9p2zKP39jc35U5X2pv/A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Pablo Pc\\Desktop\\Programacion\\Proyectos C# Entity Framework\\AppPlataformaCursos\\AppPlataformaCursos\\AppPlataformaCursos.csproj",
+  "projectFilePath": "C:\\Users\\Pablo Pc\\Desktop\\Programacion\\Proyectos C# Entity Framework\\AppPlataformaCursos\\APIPlataformaCursos-ASP.NET-CORE-API-\\AppPlataformaCursos\\AppPlataformaCursos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pablo Pc\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Pablo Pc\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
