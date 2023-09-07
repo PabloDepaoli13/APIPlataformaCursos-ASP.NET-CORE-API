@@ -26,7 +26,7 @@ builder.Services.AddMemoryCache();
 
 builder.Services.AddResponseCaching(opt =>
 {
-    opt.SizeLimit= 1000;
+    opt.SizeLimit= 1024;
     opt.UseCaseSensitivePaths= true;
    
 });
